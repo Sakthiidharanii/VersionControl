@@ -1,5 +1,5 @@
 # VersionControl
 Assignment Version Control
 Implementation of Playfair Cipher
-Symmetric Cryptographic Techniques
+Asymmetric Cryptographic Techniques
 Implemented using the key "Monarchy"
