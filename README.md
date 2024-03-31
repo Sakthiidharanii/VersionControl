@@ -1,6 +1,10 @@
 # VersionControl
+<<<<<<< HEAD
 # Assignment
 # Implementation of Playfair Cipher
 # Asymmetric Cryptographic Techniques
-# Sakthi
 
+=======
+Implemented using the key "Monarchy"
+
+>>>>>>> branchB
