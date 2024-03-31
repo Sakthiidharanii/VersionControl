@@ -1,5 +1,6 @@
 # VersionControl
-Assignment Version Control
-Implementation of Playfair Cipher
-Asymmetric Cryptographic Techniques
-Implemented using the key "Monarchy"
+# Assignment
+# Implementation of Playfair Cipher
+# Asymmetric Cryptographic Techniques
+# Sakthi
+
